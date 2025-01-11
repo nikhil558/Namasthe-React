@@ -18,3 +18,7 @@
 - Consistency Hashing Algorithm
 - Zero Config
 - Tree Shaking
+
+* React functional component - javascript function which returns some peice of JSX code or react element is called functional component
+
+* Component Composition - component inside another component is called component composition 
